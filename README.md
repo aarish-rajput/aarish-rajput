@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web and mobile applications using React, Node.js, and cloud technologies.<br><br>👯 I’m looking to collaborate on React, full-stack, AI-powered, and testing projects.<br><br>🤝 I’m looking for help with system design, scalable cloud architectures, and production best practices.<br><br>🌱 I’m currently learning advanced cloud computing, AI-driven development, and automated testing.<br><br>💬 Ask me about React, React Native, Node.js, microservices, Docker, SQL, and testing.<br><br>⚡ Fun fact I’ve taught computer science while building real-world production applications.
+
+🚀 **All my latest projects are private.**
+
+🔭 I’m currently building full-stack web and mobile applications using React, Node.js, AI, and cloud technologies.
+
+👯 I’m looking to collaborate on React, Next.js, full-stack, AI-powered, and scalable backend projects.
+
+🤝 I’m interested in system design, microservices, cloud architecture, and production-grade software engineering.
+
+🌱 I’m currently learning Agentic AI, LangGraph, advanced cloud computing, and modern AI application development.
+
+💬 Ask me about React, React Native, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, Docker, microservices, testing, and AI integrations.
+
+⚡ **Fun fact:** I’ve taught computer science while building real-world production applications.
 
 
 ## 🌐 Socials:
